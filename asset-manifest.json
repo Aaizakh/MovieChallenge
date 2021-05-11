@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aaizakh/MovieChallenge/static/css/main.c8342f5d.chunk.css",
+    "main.js": "/Aaizakh/MovieChallenge/static/js/main.f00d3070.chunk.js",
+    "main.js.map": "/Aaizakh/MovieChallenge/static/js/main.f00d3070.chunk.js.map",
+    "runtime-main.js": "/Aaizakh/MovieChallenge/static/js/runtime-main.02046855.js",
+    "runtime-main.js.map": "/Aaizakh/MovieChallenge/static/js/runtime-main.02046855.js.map",
+    "static/js/2.4d020dcf.chunk.js": "/Aaizakh/MovieChallenge/static/js/2.4d020dcf.chunk.js",
+    "static/js/2.4d020dcf.chunk.js.map": "/Aaizakh/MovieChallenge/static/js/2.4d020dcf.chunk.js.map",
+    "index.html": "/Aaizakh/MovieChallenge/index.html",
+    "static/css/main.c8342f5d.chunk.css.map": "/Aaizakh/MovieChallenge/static/css/main.c8342f5d.chunk.css.map",
+    "static/js/2.4d020dcf.chunk.js.LICENSE.txt": "/Aaizakh/MovieChallenge/static/js/2.4d020dcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02046855.js",
+    "static/js/2.4d020dcf.chunk.js",
+    "static/css/main.c8342f5d.chunk.css",
+    "static/js/main.f00d3070.chunk.js"
+  ]
+}
