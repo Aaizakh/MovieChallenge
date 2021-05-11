@@ -16,6 +16,8 @@ jobs:
         run: |
           npm install
           npm run-script build
+        env:
+         REACT_APP_API_KEY: ${{ secrets.REACT_APP_API_KEY }}
 
       - name: Deploy 
         uses: Aaizakh/github-pages-deploy-action@3.6.2
